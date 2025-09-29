@@ -14,6 +14,14 @@
             HorizontalAlignment="Center"
             VerticalAlignment="Center"
             FontSize="24"
-            Text="Hello, World!" />
+            Text="Hello!" />
+        <Button
+            Width="75"
+            Height="30"
+            Margin="10"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top">
+            Click Me
+        </Button>
     </Grid>
 </Window>

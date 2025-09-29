@@ -16,11 +16,11 @@ using System.Windows.Shapes;
 namespace WpfApp1.UC
 {
     /// <summary>
-    /// Interaction logic for Test1.xaml
+    /// Interaction logic for aaa.xaml
     /// </summary>
-    public partial class Test1 : UserControl
+    public partial class aaa : UserControl
     {
-        public Test1()
+        public aaa()
         {
             InitializeComponent();
         }
